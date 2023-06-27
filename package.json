@@ -1,0 +1,24 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "This is a interface or Content management system that allows non-developers to view and interact with information stored in databases. It is a command-line application that manages a company's employee database using Node.js, Inquirer, and MySQL. It allows the user to \"View all departments\", \"View all roles\",\"View all employees\", \"Add a department\", \"Add a role\", \"Add an employee\", \"Update an employee manager\",\"View employees by department\",'View employees by manager',  \"Update an employee role\", \"Delete an employee\", or  \"View department's utilized budget\".",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Afang911/Employee-Tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Afang911/Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/Afang911/Employee-Tracker#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "inquirer": "^8.2.4",
+    "mysql2": "^2.18.1"
+  }
+}
