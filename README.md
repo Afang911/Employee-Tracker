@@ -18,16 +18,16 @@ This is a interface or Content management system that allows non-developers to v
 
 ## Usage
 
- [Click here](https://drive.google.com/file/d/1LtVQBHmcRmN8vPPAEKDKmthdUgiDURo0/view?usp=sharing) to see a video of my application working. 
+ [Click here](https://drive.google.com/file/d/1BTasURiCdwW1WSag3HKGqF7cT_vRwE7C/view) to see a video of my application working. 
 ## Images
 This is a example of what the employee list looks like when called 
-![Employee List](./imagesForReadMe/EmployeeList.png)
+![Employee List](./images/EmployeeCML.jpg)
 
 This is what some of my code looks like 
-![Code for site](./imagesForReadMe/employeeCode.png)
+![Code for site](./images/employees.jpg)
 
 This is what my schema.sql file looks like 
-![Code for site](./imagesForReadMe/schema.png)
+![Code for site](./images/schema.png)
 
 
 ## Questions
